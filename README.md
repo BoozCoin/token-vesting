@@ -6,7 +6,7 @@ This code has been audited by Kudelski ✅
 
 ## UI
 
-[Bonfida Token Vesting UI]([(https://vesting.bonfida.org/))
+Bonfida Token Vesting UI https://vesting.bonfida.org/ 
 
 ## Goal
 
